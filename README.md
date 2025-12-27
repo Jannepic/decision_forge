@@ -1,16 +1,35 @@
-# decision_forge
+# Decision Forge
 
-A new Flutter project.
+Decision Forge is a decision-clarity app.
 
-## Getting Started
+You describe a real decision you’re stuck with.
+Decision Forge breaks it down, exposes trade-offs, highlights opportunity costs,
+and delivers a clear verdict with a concrete next step.
 
-This project is a starting point for a Flutter application.
+No motivation.
+No therapy.
+No productivity noise.
 
-A few resources to get you started if this is your first Flutter project:
+Just structured thinking, forced clarity, and a decision you can act on.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## What it does
+- Analyzes multiple options objectively
+- Reveals hidden costs, risks, and cognitive bias
+- Weighs decisions based on your priorities (money, growth, peace)
+- Delivers a clear verdict with reasoning
+- Defines the next action to take within 24 hours
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## What it is not
+- Not a to-do app
+- Not a habit tracker
+- Not a mental health app
+- Not here to make you feel comfortable
+
+## Who it’s for
+- People who overthink and delay important decisions
+- Builders, creators, traders, and students
+- Anyone tired of vague “it depends” answers
+
+## Core principle
+If a decision matters, avoiding it is already a decision.
+Decision Forge exists to end that loop.
