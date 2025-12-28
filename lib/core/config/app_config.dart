@@ -1,8 +1,7 @@
 class AppConfig {
   static const supabaseUrl = String.fromEnvironment('SUPABASE_URL');
 
-  static const sueyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9pabaseAnonKey =
-      String.fromEnvironment('SUPABASE_ANON_KEY');
+  static const supabaseAnonKey = String.fromEnvironment('SUPABASE_ANON_KEY');
 }
 
 
